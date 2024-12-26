@@ -1,0 +1,6 @@
+
+https://www.geeksforgeeks.org/program-for-fcfs-cpu-scheduling-set-1/
+
+https://www.geeksforgeeks.org/shortest-remaining-time-first-preemptive-sjf-scheduling-algorithm/
+
+https://www.geeksforgeeks.org/program-for-round-robin-scheduling-for-the-same-arrival-time/
